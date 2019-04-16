@@ -1,0 +1,28 @@
+.colors {
+    display: flex;   
+    width: 300px;
+    height: 200px;
+}
+
+.main {
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.butter {
+   height: 250px; 
+}
+
+.bub {
+   height: 300px; 
+}
+
+.bloom {
+    height: 300px;
+}
+
+p {
+    font-style: italic;
+}
